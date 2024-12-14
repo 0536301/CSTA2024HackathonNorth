@@ -1,3 +1,1 @@
-function stuff() {
-
-}
+console.log("Hello, World!");

@@ -1,3 +1,3 @@
-function stuff{
+function stuff() {
 
 }
